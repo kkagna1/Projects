@@ -1,0 +1,46 @@
+body { background-color: #E2FFFF; color:rgb(12, 25, 99); 
+ 
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ 
+}
+ 
+h1 { background-color: lightblue ; color: darkblue
+ 
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+ 
+line-height: 200%;
+ 
+ 
+text-indent: 1em;
+ 
+ 
+text-shadow: 3px 3px 5px darkblue;
+ 
+}
+ 
+h2 { background-color: lightblue; 
+ 
+color: rgb(228, 235, 231);
+ 
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+text-align: center; 
+ 
+}
+ 
+nav {font-weight: bold;
+ 
+font-size: 1.25em;
+ 
+word-spacing: 1em;
+ 
+}
+ 
+p{font-size: .90em;
+ 
+text-indent: 3em;
+ 
+}
+ 
+ul{font-weight: bold}
